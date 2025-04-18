@@ -1,4 +1,5 @@
-base_model: Gryphe/MythoMax-L2-13b
+#base_model: Gryphe/MythoMax-L2-13b
+base_model: TheBloke/MythoMax-L2-13B-GPTQ
 model_type: AutoModelForCausalLM
 tokenizer_type: AutoTokenizer
 
